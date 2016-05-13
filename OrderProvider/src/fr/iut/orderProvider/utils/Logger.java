@@ -31,8 +31,6 @@ public class Logger {
 		System.out.flush();
 	}
 
-	/// Sets how much debug output to print ('true' prints debug and error
-	/// messages; 'false' prints only error messages).
 	/**
 	 * Sets how much debug output to print ('true' prints debug and error
 	 * messages; 'false' prints only error messages).

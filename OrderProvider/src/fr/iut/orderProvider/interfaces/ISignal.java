@@ -4,7 +4,7 @@ public interface ISignal {
 
 	void signalNewOrder();
 	
-	void setOrderProvider(IVocalOrder orderProvider);
+	void setOrderProvider(IVocalOrder provider);
 	
 	IVocalOrder getOrderProvider();
 	

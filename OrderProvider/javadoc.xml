@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="../../../biblio_voce_10/voce-0.10.0.jar;../../../biblio_sphinx4/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar;../../../biblio_sphinx4/jsapi.jar;../../../biblio_sphinx4/sphinx4-core-1.0.0.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="fr.iut.orderProvider.utils,fr.iut.orderProvider.interfaces,fr.iut.orderProvider" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
